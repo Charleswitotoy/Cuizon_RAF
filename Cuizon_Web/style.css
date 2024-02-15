@@ -1,0 +1,38 @@
+.table1{
+    width: 100%;
+}
+
+img{
+    width: 30%;
+    alt: "cannot load";
+}
+
+.STIAddrss{
+    text-align: center;
+    width: 33%;
+}
+
+.regForm, .totalunits{
+    text-align: right;
+    width: 33%;
+}
+
+table .firstrow{
+    text-align: left;
+}
+
+table .rowstoCenter, .units, .financial{
+    text-align: center;
+}
+
+.noborder td{
+    border-bottom: none;
+    border-top: none;
+}
+
+.table3 td{
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
